@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/54322854/176503811-534157ca-6caf-4054-be5b-4fa96e65e207.png) Análise de Sentimento no Twitter
+# Análise de Sentimento no Twitter
 
 ### Detecção de tweets potencialmente maldosos/hate, a partir da análise de sentimento que cada tweet demonstra
 
